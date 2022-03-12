@@ -1,0 +1,1 @@
+java -cp weka.jar;AnDE.jar;. RunMultipleCancerDetection ./submodels/CancerA1DE.model ./sample/DifferentCancerDetectionSample.arff

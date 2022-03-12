@@ -1,0 +1,1 @@
+java -cp weka.jar;AnDE.jar;. RunBinaryCancerDetection ./models/CancerA1DE.model ./sample/CancerDetectionSample.arff
